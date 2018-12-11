@@ -113,7 +113,6 @@ class Agenda {
             Callback(webservice.PreparaLista('reserva', http.response));
         });
 
-
     };
 
     Remover(id, Callback) {
